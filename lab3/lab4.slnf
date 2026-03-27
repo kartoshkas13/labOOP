@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "lab3.slnx",
+    "projects": [
+      "lab3\\lab3.csproj"
+    ]
+  }
+}

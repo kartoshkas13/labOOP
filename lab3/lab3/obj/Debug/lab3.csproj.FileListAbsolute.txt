@@ -1,0 +1,10 @@
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab3\lab3\obj\Debug\lab3.pdb
