@@ -15,6 +15,7 @@ namespace lab3
     {
         ComplexNumber num1;
         ComplexNumber num2;
+        ComplexCollection collection = new ComplexCollection();
         public Form1()
         {
             InitializeComponent();
@@ -29,8 +30,10 @@ namespace lab3
         {
             num1 = new ComplexNumber(textBox1.Text);
             num2 = new ComplexNumber(textBox2.Text);
+            collection.Add(num1);
+            collection.Add(num2);
 
-            label1.Text = "Числа створені";
+            label1.Text = "Числа створені і додані в колекцію";
         }
 
 
@@ -92,6 +95,18 @@ namespace lab3
             {
                 MessageBox.Show("Помилка: " + ex.Message);
             }
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show(collection.ShowGenStack());
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            ComplexNumber num = collection.Remove();
+            MessageBox.Show("Видалено: " + num);
+
         }
     }
  }
