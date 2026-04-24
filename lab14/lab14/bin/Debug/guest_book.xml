@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfGuestBookRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuestBookRecord>
+    <FullName>Іваненко Андрій Петрович</FullName>
+    <ArrivalTime>2026-04-24T08:00:00+03:00</ArrivalTime>
+    <DepartureTime>2026-04-24T08:45:00+03:00</DepartureTime>
+    <RoomNumber>203</RoomNumber>
+  </GuestBookRecord>
+  <GuestBookRecord>
+    <FullName>Петренко Олена Василівна</FullName>
+    <ArrivalTime>2026-04-24T09:00:00+03:00</ArrivalTime>
+    <DepartureTime>2026-04-24T11:15:00+03:00</DepartureTime>
+    <RoomNumber>101</RoomNumber>
+  </GuestBookRecord>
+  <GuestBookRecord>
+    <FullName>Шевченко Марія Ігорівна</FullName>
+    <ArrivalTime>2026-04-24T10:00:00+03:00</ArrivalTime>
+    <DepartureTime>2026-04-24T13:00:00+03:00</DepartureTime>
+    <RoomNumber>305</RoomNumber>
+  </GuestBookRecord>
+  <GuestBookRecord>
+    <FullName>Коваленко Дмитро Сергійович</FullName>
+    <ArrivalTime>2026-04-24T12:00:00+03:00</ArrivalTime>
+    <DepartureTime>2026-04-24T12:50:00+03:00</DepartureTime>
+    <RoomNumber>101</RoomNumber>
+  </GuestBookRecord>
+  <GuestBookRecord>
+    <FullName>Бондар Назар Олегович</FullName>
+    <ArrivalTime>2026-04-24T14:00:00+03:00</ArrivalTime>
+    <DepartureTime>2026-04-24T16:20:00+03:00</DepartureTime>
+    <RoomNumber>203</RoomNumber>
+  </GuestBookRecord>
+  <GuestBookRecord>
+    <FullName>прпррпрп</FullName>
+    <ArrivalTime>2026-04-24T10:22:11.507134+03:00</ArrivalTime>
+    <DepartureTime>2026-04-24T12:22:11.507134+03:00</DepartureTime>
+    <RoomNumber>101</RoomNumber>
+  </GuestBookRecord>
+</ArrayOfGuestBookRecord>

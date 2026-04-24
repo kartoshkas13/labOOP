@@ -1,0 +1,13 @@
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\bin\Debug\lab14.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\bin\Debug\lab14.exe
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\bin\Debug\lab14.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\obj\Debug\lab14.Properties.Resources.resources
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\obj\Debug\lab14.Form1.resources
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\obj\Debug\lab14.csproj.GenerateResource.cache
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\obj\Debug\lab14.exe
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\obj\Debug\lab14.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sasha\OneDrive\Рабочий стол\2semest\ООП\lab14\lab14\obj\Debug\lab14.csproj.Up2Date
